@@ -1,4 +1,4 @@
-### Hi there, I'm Eduardo Cassano <img align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/brazil.png"/> <img align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/great-britain.png"/> <img align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/italy.png"/> 👋
+### Hi there, I'm Eduardo Cassano <img align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/brazil.png"/> <img align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/usa.png"/> <img align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/italy.png"/> 👋
 
 🌱 I’m currently studying Vanilla JS</br>
 📧 Contact me by e-mail: eduardocassanodesa@uol.com.br

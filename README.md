@@ -25,4 +25,6 @@
     <a href="https://www.instagram.com/eduardo_cassano" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:educassano54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://wa.me/5521996152821?text=Hi%20there,%20I'm%20interested%20to%20know%20more%20about%20you!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    
+      ![Snake animation](https://github.com/ecassano/ecassano/blob/output/github-contribution-grid-snake.svg)
   </div>

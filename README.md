@@ -15,7 +15,7 @@
     <h3>Most Known Technologies</h3>
     <img alt="Edu-HTML" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="Edu-CSS" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="Edu-Bootstrap" height="40rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img alt="Edu-Bootstrap" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
     <img alt="Edu-JavaScript" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
 

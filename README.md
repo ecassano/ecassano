@@ -17,6 +17,7 @@
     <img alt="Edu-CSS" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="Edu-Bootstrap" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img alt="Edu-JavaScript" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Edu-ReactJS" height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
 
   ##

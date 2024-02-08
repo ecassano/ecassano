@@ -31,5 +31,4 @@
     <a href="https://wa.me/5521996152821?text=Hi%20there,%20I'm%20interested%20to%20know%20more%20about%20you!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://www.hackerrank.com/eduardocassanod1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     
-  ![Snake animation](https://github.com/ecassano/ecassano/blob/output/github-contribution-grid-snake.svg)
   </div>

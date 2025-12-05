@@ -1,9 +1,4 @@
 # Hi there, I'm Eduardo Cassano 👋  
-<img align="left" width="28" src="https://img.icons8.com/color/48/brazil.png"/>  
-<img align="left" width="28" src="https://img.icons8.com/color/48/usa.png"/>  
-<img align="left" width="28" src="https://img.icons8.com/color/48/italy.png"/>  
-
-<br clear="left"/>
 
 I'm a **Full-Stack JavaScript/TypeScript Developer**, focused on **Frontend** with React and Next.js.  
 I currently work as a Frontend Developer at **IplanRio**, creating digital solutions used by thousands of citizens in Rio de Janeiro’s public sector.
@@ -11,8 +6,17 @@ I currently work as a Frontend Developer at **IplanRio**, creating digital solut
 I enjoy building clean, scalable UIs, integrating with modern APIs, improving performance and DX, and contributing to well-structured codebases.  
 I'm also expanding my backend skills with **Node.js, NestJS, and modern web architecture**.
 
-📧 **Email:** eduardocassanodesa@uol.com.br  
-🔗 **LinkedIn:** https://www.linkedin.com/in/eduardo-cassano-a0639323a/
+### 📬 Contact
+
+<a href="mailto:eduardocassanodesa@uol.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/eduardo-cassano-a0639323a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/5521996152821?text=Hi%20Eduardo!%20Let's%20talk!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 ---
 
